@@ -1,0 +1,501 @@
+IDVeiculo;Marca;Modelo;Versao;TipoCarroceria;Ano;QtdPortas;Combustivel;Cambio;Cor;PotenciaCV;ConsumoUrbano;ConsumoRodoviario;PaisOrigem;LinkImagemCarro;LinkBandeiraPais
+1;Honda;Civic;Voluptate;Picape;2013;3;Elétrico;Manual;Prata;416;12.41;15.59;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+2;Jeep;Wrangler;Fugit;SUV;2006;2;Etanol;Manual;Vermelho;357;6.99;10.59;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+3;Renault;Sandero;At;Conversível;2012;4;Etanol;Automatizado;Branco;244;7.78;9.64;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+4;Fiat;Argo;Veniam;Esportivo;2007;2;Diesel;CVT;Cinza;483;5.43;8.27;Itália;https://via.placeholder.com/150?text=Fiat+Argo;https://via.placeholder.com/50?text=Itália
+5;Honda;City;Harum;Minivan;2007;4;Elétrico;Manual;Vermelho;93;11.61;15.7;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+6;Honda;HR-V;Velit;Esportivo;2008;4;Elétrico;CVT;Amarelo;153;8.7;10.54;Japão;https://via.placeholder.com/150?text=Honda+HR-V;https://via.placeholder.com/50?text=Japão
+7;Volkswagen;Gol;Odio;Sedan;2024;3;Flex;Automatizado;Prata;208;14.9;18.46;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+8;Renault;Duster;Repudiandae;SUV;2015;3;Diesel;Automatizado;Branco;207;5.66;10.31;França;https://via.placeholder.com/150?text=Renault+Duster;https://via.placeholder.com/50?text=França
+9;Jeep;Commander;Quasi;Conversível;2011;5;Etanol;CVT;Amarelo;141;7.47;10.72;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Commander;https://via.placeholder.com/50?text=Estados Unidos
+10;Volkswagen;Virtus;Officiis;Esportivo;2023;4;Etanol;Automatizado;Vermelho;116;12.56;17.0;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+11;Ford;EcoSport;Sint;Hatch;2018;5;Híbrido;Automatizado;Verde;340;7.51;10.72;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+12;Toyota;Corolla;Magni;Minivan;2022;4;Diesel;Automatizado;Preto;150;9.54;14.36;Japão;https://via.placeholder.com/150?text=Toyota+Corolla;https://via.placeholder.com/50?text=Japão
+13;Volkswagen;Polo;Quo;Hatch;2021;4;Etanol;CVT;Vermelho;460;6.62;11.43;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Polo;https://via.placeholder.com/50?text=Alemanha
+14;Renault;KwID;Atque;Crossover;2024;5;Gasolina;CVT;Branco;495;13.07;15.03;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+15;Chevrolet;Onix;Voluptatum;Conversível;2007;2;Etanol;Automatizado;Prata;351;6.65;9.76;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Onix;https://via.placeholder.com/50?text=Estados Unidos
+16;Jeep;Wrangler;Fuga;Picape;2011;4;Elétrico;CVT;Verde;294;14.0;16.81;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+17;Chevrolet;S10;Rerum;Crossover;2007;2;Híbrido;Automático;Vermelho;73;5.71;9.23;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+18;Chevrolet;Onix;Nam;Crossover;2006;2;Diesel;Automatizado;Vermelho;179;10.39;14.28;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Onix;https://via.placeholder.com/50?text=Estados Unidos
+19;Jeep;Wrangler;Ipsa;Conversível;2012;5;Gasolina;Manual;Vermelho;407;9.31;12.0;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+20;Nissan;Kicks;Voluptatum;Hatch;2025;2;Elétrico;CVT;Verde;479;13.62;15.61;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+21;Chevrolet;Spin;Aliquam;Esportivo;2009;3;Flex;Automático;Azul;108;9.43;13.88;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+22;Renault;KwID;Facilis;SUV;2006;2;Etanol;Automatizado;Vermelho;318;9.81;14.27;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+23;Toyota;Hilux;Porro;SUV;2017;5;Flex;CVT;Azul;286;11.97;15.89;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+24;Renault;Sandero;Commodi;Picape;2009;4;Gasolina;Manual;Vermelho;452;8.14;9.34;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+25;Nissan;Versa;Dolorem;Hatch;2006;3;Híbrido;Manual;Preto;415;13.62;16.24;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+26;Jeep;Renegade;Incidunt;SUV;2023;2;Elétrico;CVT;Verde;203;7.04;10.9;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+27;Chevrolet;Cruze;Animi;Sedan;2017;4;Diesel;Manual;Amarelo;74;9.58;14.57;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+28;Honda;Civic;Deleniti;Picape;2022;4;Diesel;Manual;Prata;195;8.7;10.33;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+29;Renault;Captur;At;SUV;2024;4;Etanol;CVT;Preto;129;13.9;17.87;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+30;Ford;Ranger;Praesentium;Picape;2014;4;Elétrico;CVT;Vermelho;328;9.89;14.51;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+31;Toyota;Corolla;Facilis;Esportivo;2025;4;Gasolina;CVT;Branco;464;6.31;11.23;Japão;https://via.placeholder.com/150?text=Toyota+Corolla;https://via.placeholder.com/50?text=Japão
+32;Ford;Fusion;Laborum;Esportivo;2022;2;Gasolina;Automático;Preto;349;5.36;7.84;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+33;Renault;Duster;Sit;Sedan;2018;2;Diesel;Manual;Azul;253;7.1;9.1;França;https://via.placeholder.com/150?text=Renault+Duster;https://via.placeholder.com/50?text=França
+34;Honda;Fit;Itaque;Esportivo;2022;3;Etanol;Automático;Vermelho;281;5.25;9.2;Japão;https://via.placeholder.com/150?text=Honda+Fit;https://via.placeholder.com/50?text=Japão
+35;Fiat;Mobi;Nulla;Minivan;2012;3;Flex;Manual;Preto;310;7.22;11.49;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+36;Nissan;Frontier;Molestiae;Picape;2014;3;Elétrico;Automático;Branco;274;8.28;12.74;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+37;Volkswagen;T-Cross;Reprehenderit;Esportivo;2025;4;Gasolina;CVT;Branco;161;10.81;15.74;Alemanha;https://via.placeholder.com/150?text=Volkswagen+T-Cross;https://via.placeholder.com/50?text=Alemanha
+38;Toyota;Corolla;At;Esportivo;2024;4;Flex;Manual;Cinza;267;14.0;15.76;Japão;https://via.placeholder.com/150?text=Toyota+Corolla;https://via.placeholder.com/50?text=Japão
+39;Toyota;Etios;Consectetur;Picape;2005;4;Gasolina;CVT;Verde;389;8.14;12.53;Japão;https://via.placeholder.com/150?text=Toyota+Etios;https://via.placeholder.com/50?text=Japão
+40;Volkswagen;T-Cross;Repellendus;Crossover;2018;5;Híbrido;Automático;Azul;168;9.2;13.96;Alemanha;https://via.placeholder.com/150?text=Volkswagen+T-Cross;https://via.placeholder.com/50?text=Alemanha
+41;Ford;Ranger;Ducimus;SUV;2017;4;Etanol;Automatizado;Azul;472;10.8;14.42;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+42;Nissan;March;Ea;Picape;2019;5;Elétrico;Manual;Prata;215;10.15;13.68;Japão;https://via.placeholder.com/150?text=Nissan+March;https://via.placeholder.com/50?text=Japão
+43;Fiat;Argo;Maxime;Minivan;2012;3;Etanol;Manual;Vermelho;93;7.45;10.35;Itália;https://via.placeholder.com/150?text=Fiat+Argo;https://via.placeholder.com/50?text=Itália
+44;Honda;City;Adipisci;Picape;2018;5;Flex;Automático;Amarelo;145;11.56;12.58;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+45;Honda;City;Et;Sedan;2012;5;Híbrido;Automático;Branco;132;9.56;13.77;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+46;Renault;Captur;Enim;Esportivo;2019;5;Elétrico;Automatizado;Prata;300;7.59;9.58;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+47;Volkswagen;Virtus;Vel;Picape;2025;4;Gasolina;CVT;Amarelo;190;7.72;10.0;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+48;Renault;KwID;Commodi;Sedan;2009;3;Elétrico;Automático;Verde;431;7.14;9.8;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+49;Fiat;Mobi;Et;SUV;2018;3;Flex;Manual;Verde;461;10.76;13.67;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+50;Fiat;Strada;Similique;Esportivo;2017;3;Etanol;CVT;Amarelo;293;9.86;12.42;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+51;Hyundai;Creta;Reprehenderit;Sedan;2019;2;Híbrido;Manual;Verde;112;11.43;12.97;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Creta;https://via.placeholder.com/50?text=Coreia do Sul
+52;Nissan;Versa;Libero;Minivan;2006;5;Etanol;Automatizado;Cinza;237;8.38;12.9;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+53;Volkswagen;Virtus;Nemo;Hatch;2013;5;Elétrico;Manual;Branco;249;7.24;8.51;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+54;Toyota;Corolla;Itaque;Picape;2012;2;Etanol;Automático;Prata;312;11.69;14.95;Japão;https://via.placeholder.com/150?text=Toyota+Corolla;https://via.placeholder.com/50?text=Japão
+55;Chevrolet;Spin;Inventore;Crossover;2013;3;Etanol;CVT;Preto;125;10.79;15.51;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+56;Jeep;Wrangler;Quas;Picape;2017;2;Gasolina;CVT;Vermelho;420;11.0;12.48;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+57;Jeep;Compass;Itaque;Esportivo;2016;4;Híbrido;CVT;Preto;76;13.5;17.79;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Compass;https://via.placeholder.com/50?text=Estados Unidos
+58;Honda;City;Quas;Conversível;2016;3;Etanol;CVT;Verde;385;13.08;16.23;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+59;Nissan;March;Esse;Minivan;2018;4;Gasolina;CVT;Vermelho;300;7.44;10.3;Japão;https://via.placeholder.com/150?text=Nissan+March;https://via.placeholder.com/50?text=Japão
+60;Jeep;Wrangler;A;SUV;2015;5;Etanol;Automatizado;Cinza;178;8.55;10.58;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+61;Volkswagen;T-Cross;Corrupti;SUV;2022;3;Etanol;Automatizado;Preto;320;10.55;12.51;Alemanha;https://via.placeholder.com/150?text=Volkswagen+T-Cross;https://via.placeholder.com/50?text=Alemanha
+62;Nissan;March;Ullam;SUV;2019;2;Etanol;Automatizado;Azul;424;7.43;11.09;Japão;https://via.placeholder.com/150?text=Nissan+March;https://via.placeholder.com/50?text=Japão
+63;Fiat;Mobi;Eaque;Crossover;2022;5;Diesel;Automatizado;Cinza;208;8.07;9.99;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+64;Chevrolet;Cruze;Nihil;Sedan;2008;3;Elétrico;Automatizado;Vermelho;211;12.25;17.16;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+65;Renault;Captur;Placeat;Picape;2008;4;Diesel;Automático;Vermelho;224;5.14;8.28;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+66;Volkswagen;Gol;Quasi;Minivan;2006;3;Gasolina;Manual;Amarelo;363;7.84;10.75;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+67;Fiat;Toro;Laborum;Minivan;2006;5;Gasolina;Automatizado;Preto;321;5.74;9.26;Itália;https://via.placeholder.com/150?text=Fiat+Toro;https://via.placeholder.com/50?text=Itália
+68;Toyota;Hilux;Recusandae;Minivan;2009;2;Gasolina;Automatizado;Vermelho;380;10.96;14.43;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+69;Renault;Sandero;Quo;Conversível;2019;4;Diesel;Manual;Verde;382;14.6;16.0;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+70;Chevrolet;S10;Doloribus;Hatch;2013;3;Etanol;Manual;Vermelho;150;5.03;7.83;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+71;Jeep;Wrangler;Tempora;SUV;2014;3;Elétrico;CVT;Azul;429;13.6;14.88;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+72;Chevrolet;Cruze;Laudantium;Picape;2025;5;Híbrido;Automático;Preto;401;6.49;8.55;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+73;Ford;Ka;Tenetur;Sedan;2006;4;Flex;Manual;Azul;309;11.89;15.69;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ka;https://via.placeholder.com/50?text=Estados Unidos
+74;Volkswagen;Virtus;Praesentium;Hatch;2019;2;Elétrico;CVT;Verde;379;7.5;8.87;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+75;Jeep;Compass;Earum;SUV;2013;3;Híbrido;Automatizado;Amarelo;212;6.81;10.15;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Compass;https://via.placeholder.com/50?text=Estados Unidos
+76;Nissan;Kicks;Tempore;Crossover;2020;5;Diesel;Manual;Cinza;152;8.3;12.07;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+77;Volkswagen;Virtus;Suscipit;SUV;2022;5;Diesel;CVT;Preto;235;6.16;10.25;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+78;Renault;KwID;Assumenda;Conversível;2022;5;Etanol;CVT;Branco;388;12.56;16.06;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+79;Toyota;Hilux;Soluta;Sedan;2013;4;Elétrico;Automatizado;Amarelo;132;5.29;8.81;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+80;Chevrolet;S10;Possimus;SUV;2014;5;Etanol;Manual;Preto;306;14.47;18.06;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+81;Ford;Fusion;Mollitia;Minivan;2014;5;Flex;Automático;Amarelo;303;10.51;13.04;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+82;Jeep;Renegade;Animi;Minivan;2007;5;Híbrido;CVT;Cinza;490;5.03;8.93;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+83;Jeep;Wrangler;Magnam;Conversível;2009;5;Diesel;Automatizado;Cinza;303;14.33;18.81;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+84;Chevrolet;Spin;Ratione;Esportivo;2012;2;Elétrico;Automatizado;Cinza;431;14.13;16.65;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+85;Ford;Fusion;Pariatur;Sedan;2006;4;Flex;Manual;Preto;339;14.1;15.16;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+86;Ford;Fusion;Nemo;Sedan;2025;2;Diesel;CVT;Amarelo;389;11.93;15.53;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+87;Fiat;Mobi;Facilis;Conversível;2015;2;Etanol;CVT;Preto;186;12.47;15.21;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+88;Honda;Civic;Nihil;Sedan;2019;4;Gasolina;CVT;Branco;477;5.56;7.99;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+89;Hyundai;Creta;Possimus;Esportivo;2012;3;Etanol;Manual;Prata;382;13.71;17.19;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Creta;https://via.placeholder.com/50?text=Coreia do Sul
+90;Chevrolet;Spin;Nemo;Sedan;2023;3;Elétrico;CVT;Amarelo;305;7.55;8.59;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+91;Nissan;Frontier;Aut;Sedan;2022;2;Diesel;CVT;Amarelo;397;14.62;18.38;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+92;Nissan;Frontier;Distinctio;Esportivo;2011;5;Etanol;Automatizado;Preto;362;8.59;10.77;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+93;Volkswagen;Gol;Velit;Minivan;2017;2;Híbrido;Automatizado;Branco;496;14.04;16.18;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+94;Chevrolet;Cruze;Occaecati;Picape;2012;4;Elétrico;Manual;Prata;391;11.46;13.7;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+95;Nissan;Kicks;Vel;Crossover;2023;3;Diesel;CVT;Preto;452;9.16;10.96;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+96;Renault;Captur;Dolores;Minivan;2021;3;Flex;CVT;Azul;452;13.7;17.92;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+97;Nissan;Kicks;Optio;Picape;2009;5;Gasolina;Automatizado;Cinza;77;7.64;9.13;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+98;Fiat;Strada;Laborum;Esportivo;2023;4;Elétrico;Automático;Preto;311;5.25;9.79;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+99;Renault;Captur;Facilis;Picape;2024;2;Elétrico;CVT;Amarelo;402;9.08;10.64;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+100;Toyota;Yaris;A;Hatch;2020;2;Híbrido;Automático;Vermelho;268;9.54;13.22;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+101;Renault;Sandero;Quisquam;Sedan;2023;5;Flex;Automatizado;Preto;213;5.33;7.81;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+102;Nissan;March;Provident;Crossover;2012;2;Híbrido;CVT;Cinza;101;8.98;10.74;Japão;https://via.placeholder.com/150?text=Nissan+March;https://via.placeholder.com/50?text=Japão
+103;Honda;City;Excepturi;Picape;2007;2;Diesel;Automático;Branco;134;12.87;14.69;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+104;Renault;Duster;Aperiam;Picape;2023;3;Etanol;Manual;Cinza;211;13.58;15.16;França;https://via.placeholder.com/150?text=Renault+Duster;https://via.placeholder.com/50?text=França
+105;Ford;Ranger;Ratione;Hatch;2010;2;Gasolina;CVT;Prata;474;12.88;16.24;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+106;Toyota;Hilux;Voluptatibus;SUV;2013;3;Híbrido;Manual;Verde;451;5.64;8.43;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+107;Fiat;Argo;Porro;Picape;2019;2;Flex;Manual;Azul;101;14.99;19.38;Itália;https://via.placeholder.com/150?text=Fiat+Argo;https://via.placeholder.com/50?text=Itália
+108;Hyundai;HB20;Similique;Conversível;2020;2;Diesel;Automático;Preto;103;6.26;9.76;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+HB20;https://via.placeholder.com/50?text=Coreia do Sul
+109;Jeep;Commander;Repudiandae;Minivan;2017;5;Gasolina;Manual;Verde;405;11.51;15.59;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Commander;https://via.placeholder.com/50?text=Estados Unidos
+110;Chevrolet;Spin;Accusamus;Picape;2019;5;Flex;Automatizado;Cinza;282;12.3;14.55;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+111;Fiat;Strada;Consequuntur;Sedan;2016;5;Gasolina;Manual;Preto;117;9.32;13.3;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+112;Fiat;Toro;Excepturi;SUV;2022;4;Flex;CVT;Preto;410;14.41;17.1;Itália;https://via.placeholder.com/150?text=Fiat+Toro;https://via.placeholder.com/50?text=Itália
+113;Toyota;Yaris;Id;Minivan;2024;4;Híbrido;Automático;Preto;149;11.57;13.47;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+114;Honda;Fit;Voluptatem;Crossover;2022;2;Híbrido;Automático;Azul;483;9.29;12.53;Japão;https://via.placeholder.com/150?text=Honda+Fit;https://via.placeholder.com/50?text=Japão
+115;Jeep;Compass;Totam;Minivan;2024;2;Diesel;CVT;Prata;243;8.51;10.24;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Compass;https://via.placeholder.com/50?text=Estados Unidos
+116;Ford;Fusion;Autem;Sedan;2007;2;Elétrico;Automático;Preto;262;9.2;11.56;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+117;Fiat;Strada;Officiis;Hatch;2015;2;Etanol;Manual;Prata;415;5.82;8.59;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+118;Hyundai;Azera;Sapiente;Conversível;2024;5;Etanol;Manual;Azul;246;9.3;11.43;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+119;Jeep;Wrangler;Ea;Minivan;2021;2;Flex;Manual;Vermelho;73;7.04;11.82;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+120;Ford;Ranger;Enim;Crossover;2014;2;Flex;Automatizado;Branco;159;6.29;9.42;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+121;Chevrolet;Cruze;In;Esportivo;2007;2;Gasolina;Automatizado;Verde;109;13.62;16.92;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+122;Jeep;Wrangler;Fugit;Esportivo;2025;4;Flex;Manual;Preto;236;6.72;11.51;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+123;Nissan;Frontier;Modi;Esportivo;2007;2;Flex;Automatizado;Vermelho;338;5.79;10.27;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+124;Fiat;Toro;Magnam;Sedan;2015;2;Híbrido;Automático;Preto;467;8.49;12.4;Itália;https://via.placeholder.com/150?text=Fiat+Toro;https://via.placeholder.com/50?text=Itália
+125;Ford;EcoSport;Ullam;Sedan;2008;4;Etanol;Automático;Vermelho;459;12.59;13.89;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+126;Nissan;March;Ipsam;Conversível;2023;4;Etanol;Automatizado;Cinza;104;9.69;13.22;Japão;https://via.placeholder.com/150?text=Nissan+March;https://via.placeholder.com/50?text=Japão
+127;Volkswagen;Gol;Dicta;Hatch;2016;4;Flex;Manual;Amarelo;99;8.69;10.84;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+128;Honda;City;Dolor;SUV;2019;5;Diesel;Automatizado;Vermelho;326;6.51;7.76;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+129;Honda;Fit;Aspernatur;Sedan;2007;2;Elétrico;Automatizado;Vermelho;294;10.24;13.68;Japão;https://via.placeholder.com/150?text=Honda+Fit;https://via.placeholder.com/50?text=Japão
+130;Fiat;Strada;Qui;Esportivo;2014;5;Elétrico;Manual;Cinza;474;11.31;13.65;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+131;Fiat;Argo;Possimus;Esportivo;2022;4;Elétrico;Automático;Azul;240;5.82;9.47;Itália;https://via.placeholder.com/150?text=Fiat+Argo;https://via.placeholder.com/50?text=Itália
+132;Fiat;Strada;Illum;Esportivo;2025;3;Diesel;Automatizado;Preto;399;12.92;17.17;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+133;Renault;KwID;Facilis;Esportivo;2025;4;Diesel;CVT;Branco;162;14.51;16.88;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+134;Nissan;Versa;Iste;Sedan;2012;3;Diesel;Manual;Preto;329;12.71;17.05;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+135;Renault;KwID;Tempora;Sedan;2015;5;Etanol;Automático;Prata;495;11.93;15.43;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+136;Ford;Fusion;Nesciunt;Esportivo;2006;4;Flex;CVT;Vermelho;455;12.49;15.29;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+137;Renault;Duster;Atque;Conversível;2014;3;Elétrico;Automatizado;Cinza;306;12.69;16.8;França;https://via.placeholder.com/150?text=Renault+Duster;https://via.placeholder.com/50?text=França
+138;Renault;Sandero;Quae;Picape;2010;3;Gasolina;Automatizado;Azul;260;10.55;11.96;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+139;Renault;KwID;Eius;Hatch;2014;3;Flex;Automático;Azul;495;9.37;14.16;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+140;Chevrolet;Spin;Quaerat;SUV;2016;5;Flex;CVT;Branco;190;8.86;10.19;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+141;Chevrolet;Onix;Mollitia;Hatch;2015;4;Etanol;Manual;Prata;216;14.17;17.06;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Onix;https://via.placeholder.com/50?text=Estados Unidos
+142;Ford;Fusion;Vero;SUV;2019;2;Diesel;Automático;Branco;497;6.5;11.26;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+143;Jeep;Wrangler;Asperiores;Minivan;2008;3;Gasolina;Manual;Azul;192;9.2;13.38;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+144;Nissan;Kicks;Rem;Conversível;2008;2;Elétrico;Automático;Vermelho;219;9.29;12.75;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+145;Chevrolet;Spin;Adipisci;Hatch;2010;4;Híbrido;Manual;Preto;269;13.73;14.9;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+146;Hyundai;Tucson;Eligendi;SUV;2013;4;Diesel;Automático;Preto;445;11.57;12.98;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Tucson;https://via.placeholder.com/50?text=Coreia do Sul
+147;Jeep;Commander;Blanditiis;SUV;2009;4;Elétrico;Automático;Cinza;495;12.79;15.65;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Commander;https://via.placeholder.com/50?text=Estados Unidos
+148;Nissan;Versa;Quaerat;Hatch;2009;5;Diesel;Automático;Branco;92;12.91;17.45;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+149;Fiat;Strada;Odio;Esportivo;2021;5;Gasolina;Automático;Azul;216;8.57;12.69;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+150;Fiat;Strada;Illo;Crossover;2008;5;Elétrico;Automatizado;Verde;267;8.39;10.14;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+151;Nissan;Frontier;Vel;Minivan;2021;2;Gasolina;Automatizado;Verde;378;14.95;16.67;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+152;Volkswagen;T-Cross;Optio;Hatch;2008;4;Diesel;Automatizado;Azul;378;12.18;13.85;Alemanha;https://via.placeholder.com/150?text=Volkswagen+T-Cross;https://via.placeholder.com/50?text=Alemanha
+153;Nissan;Frontier;Cum;SUV;2019;4;Diesel;Manual;Verde;108;11.71;14.33;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+154;Renault;Duster;Laboriosam;Sedan;2005;5;Etanol;Manual;Branco;190;12.79;15.26;França;https://via.placeholder.com/150?text=Renault+Duster;https://via.placeholder.com/50?text=França
+155;Hyundai;HB20;Provident;Sedan;2024;5;Diesel;Automatizado;Cinza;460;5.77;7.32;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+HB20;https://via.placeholder.com/50?text=Coreia do Sul
+156;Fiat;Mobi;Unde;Minivan;2015;3;Gasolina;Automático;Preto;325;10.18;14.83;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+157;Honda;Fit;Error;Conversível;2013;3;Elétrico;Automatizado;Azul;172;6.23;10.64;Japão;https://via.placeholder.com/150?text=Honda+Fit;https://via.placeholder.com/50?text=Japão
+158;Nissan;Versa;Quam;Hatch;2019;4;Elétrico;Manual;Cinza;351;10.42;14.99;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+159;Ford;EcoSport;Quas;Picape;2016;2;Etanol;Automático;Vermelho;474;9.94;12.38;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+160;Jeep;Commander;Optio;Sedan;2019;2;Diesel;Automatizado;Preto;437;12.19;15.29;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Commander;https://via.placeholder.com/50?text=Estados Unidos
+161;Hyundai;HB20;Dolores;Crossover;2009;2;Flex;CVT;Amarelo;135;13.78;17.9;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+HB20;https://via.placeholder.com/50?text=Coreia do Sul
+162;Jeep;Renegade;Reiciendis;Esportivo;2009;2;Híbrido;Automático;Preto;225;6.65;8.94;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+163;Chevrolet;Cruze;Dolores;Minivan;2021;2;Etanol;CVT;Azul;134;11.25;14.71;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+164;Honda;HR-V;Modi;Sedan;2023;3;Híbrido;Manual;Cinza;492;13.64;14.96;Japão;https://via.placeholder.com/150?text=Honda+HR-V;https://via.placeholder.com/50?text=Japão
+165;Jeep;Commander;Quisquam;Picape;2025;5;Flex;CVT;Branco;398;14.57;17.5;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Commander;https://via.placeholder.com/50?text=Estados Unidos
+166;Hyundai;Tucson;Assumenda;Hatch;2019;2;Flex;Automatizado;Prata;317;9.64;12.0;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Tucson;https://via.placeholder.com/50?text=Coreia do Sul
+167;Ford;Ranger;At;Crossover;2015;5;Diesel;Manual;Prata;233;7.42;8.91;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+168;Nissan;Versa;Id;Hatch;2009;2;Flex;Automatizado;Azul;197;14.63;19.24;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+169;Fiat;Strada;Dolorem;Sedan;2011;5;Flex;CVT;Amarelo;324;5.23;10.01;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+170;Renault;Sandero;Maiores;Picape;2012;4;Gasolina;CVT;Branco;323;10.98;15.35;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+171;Nissan;Frontier;Totam;SUV;2022;2;Etanol;CVT;Verde;442;8.66;11.27;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+172;Toyota;Etios;Natus;Picape;2006;4;Gasolina;Automatizado;Azul;328;9.5;12.7;Japão;https://via.placeholder.com/150?text=Toyota+Etios;https://via.placeholder.com/50?text=Japão
+173;Jeep;Compass;Ratione;Hatch;2009;5;Diesel;CVT;Cinza;456;6.44;9.85;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Compass;https://via.placeholder.com/50?text=Estados Unidos
+174;Hyundai;HB20;Doloremque;SUV;2006;3;Flex;Automatizado;Cinza;146;11.06;14.12;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+HB20;https://via.placeholder.com/50?text=Coreia do Sul
+175;Fiat;Strada;Quidem;Esportivo;2010;4;Híbrido;Automatizado;Cinza;432;10.63;13.53;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+176;Toyota;Yaris;Accusamus;Hatch;2015;5;Elétrico;Manual;Azul;375;9.75;14.62;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+177;Jeep;Renegade;Distinctio;Conversível;2006;3;Etanol;Automático;Verde;86;10.73;14.53;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+178;Chevrolet;Onix;Omnis;Crossover;2019;5;Flex;Automático;Prata;280;10.02;13.47;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Onix;https://via.placeholder.com/50?text=Estados Unidos
+179;Nissan;Kicks;Laborum;Picape;2009;4;Híbrido;Automatizado;Amarelo;230;14.57;17.41;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+180;Renault;Captur;Quos;Crossover;2022;4;Etanol;Automático;Amarelo;212;10.58;12.48;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+181;Volkswagen;T-Cross;Provident;Conversível;2011;4;Diesel;CVT;Amarelo;217;6.22;9.93;Alemanha;https://via.placeholder.com/150?text=Volkswagen+T-Cross;https://via.placeholder.com/50?text=Alemanha
+182;Hyundai;Azera;Omnis;Sedan;2016;4;Diesel;Manual;Branco;247;14.24;17.86;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+183;Nissan;Versa;Ipsam;Minivan;2011;4;Gasolina;Automático;Prata;194;5.51;10.13;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+184;Chevrolet;S10;Rem;Hatch;2006;5;Elétrico;Automatizado;Cinza;121;11.81;13.36;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+185;Renault;Duster;Eaque;Conversível;2018;5;Diesel;CVT;Vermelho;216;11.46;16.09;França;https://via.placeholder.com/150?text=Renault+Duster;https://via.placeholder.com/50?text=França
+186;Honda;HR-V;Iusto;SUV;2022;3;Etanol;Manual;Verde;498;8.97;11.95;Japão;https://via.placeholder.com/150?text=Honda+HR-V;https://via.placeholder.com/50?text=Japão
+187;Volkswagen;Gol;Sapiente;Minivan;2005;2;Diesel;Automatizado;Cinza;398;10.43;13.41;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+188;Ford;Fusion;Porro;Picape;2013;2;Etanol;Automatizado;Cinza;401;7.57;9.31;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+189;Fiat;Strada;Magnam;Picape;2023;3;Flex;CVT;Verde;114;9.01;10.39;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+190;Ford;Fusion;Ab;Picape;2015;2;Flex;Automático;Azul;298;12.54;17.36;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+191;Volkswagen;Gol;Et;Crossover;2013;3;Elétrico;Manual;Branco;308;8.07;10.69;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+192;Renault;Captur;Voluptas;Minivan;2008;4;Etanol;Automático;Vermelho;314;6.53;10.52;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+193;Jeep;Commander;Distinctio;Conversível;2018;3;Elétrico;Manual;Vermelho;339;9.47;13.29;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Commander;https://via.placeholder.com/50?text=Estados Unidos
+194;Honda;Civic;Exercitationem;Picape;2006;3;Diesel;Automatizado;Prata;129;11.8;15.67;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+195;Nissan;Kicks;Eligendi;Conversível;2021;2;Etanol;Automatizado;Amarelo;303;10.64;13.88;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+196;Volkswagen;Gol;Accusantium;Minivan;2017;2;Híbrido;Manual;Vermelho;93;9.24;13.04;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+197;Renault;KwID;Possimus;Conversível;2007;2;Flex;Automático;Azul;463;6.35;9.92;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+198;Hyundai;Tucson;Qui;Conversível;2017;5;Gasolina;Automático;Verde;404;13.6;15.07;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Tucson;https://via.placeholder.com/50?text=Coreia do Sul
+199;Renault;Sandero;Vitae;Sedan;2021;3;Gasolina;CVT;Branco;307;11.73;14.91;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+200;Renault;Sandero;Debitis;Picape;2012;5;Etanol;CVT;Cinza;166;14.37;18.27;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+201;Honda;Civic;Accusamus;SUV;2018;3;Gasolina;Manual;Vermelho;374;5.34;8.73;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+202;Toyota;Hilux;Eum;Esportivo;2006;5;Híbrido;Automático;Vermelho;456;13.64;14.87;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+203;Renault;Captur;Fugiat;Crossover;2012;4;Diesel;Automático;Vermelho;408;10.21;12.86;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+204;Volkswagen;Gol;Odio;Sedan;2022;5;Gasolina;CVT;Amarelo;399;11.71;15.85;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+205;Fiat;Mobi;Hic;Sedan;2018;4;Etanol;Automatizado;Verde;193;13.49;15.69;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+206;Ford;Fusion;Consequatur;Esportivo;2006;5;Flex;Automático;Prata;200;7.03;10.62;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+207;Nissan;Frontier;Exercitationem;Picape;2007;2;Flex;Manual;Azul;107;6.88;10.93;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+208;Renault;Duster;Nesciunt;Picape;2020;4;Gasolina;Automático;Azul;167;14.62;16.09;França;https://via.placeholder.com/150?text=Renault+Duster;https://via.placeholder.com/50?text=França
+209;Nissan;Versa;Corporis;Picape;2024;5;Híbrido;CVT;Vermelho;467;7.83;10.7;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+210;Fiat;Strada;Facilis;Crossover;2013;5;Gasolina;Automatizado;Amarelo;459;13.4;18.06;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+211;Fiat;Strada;Porro;SUV;2018;3;Gasolina;CVT;Prata;353;14.35;17.67;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+212;Hyundai;Tucson;Consequatur;Picape;2009;4;Flex;Automático;Vermelho;325;10.51;15.28;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Tucson;https://via.placeholder.com/50?text=Coreia do Sul
+213;Fiat;Strada;Numquam;Conversível;2020;5;Elétrico;CVT;Prata;156;6.4;9.59;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+214;Ford;Ka;Quod;SUV;2021;2;Gasolina;Automatizado;Branco;140;13.43;15.36;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ka;https://via.placeholder.com/50?text=Estados Unidos
+215;Ford;Ka;Deserunt;Conversível;2011;4;Híbrido;Automatizado;Branco;407;9.88;10.91;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ka;https://via.placeholder.com/50?text=Estados Unidos
+216;Renault;Sandero;Iure;SUV;2005;4;Gasolina;Automatizado;Azul;482;14.4;16.12;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+217;Honda;HR-V;Incidunt;Picape;2012;4;Diesel;Automatizado;Cinza;110;8.73;11.35;Japão;https://via.placeholder.com/150?text=Honda+HR-V;https://via.placeholder.com/50?text=Japão
+218;Jeep;Renegade;Molestiae;Minivan;2012;2;Gasolina;Automatizado;Branco;264;8.77;11.67;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+219;Toyota;Hilux;Tempora;Conversível;2007;5;Híbrido;Manual;Cinza;340;14.19;16.11;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+220;Jeep;Wrangler;Tempora;SUV;2013;2;Híbrido;Manual;Azul;161;14.29;16.55;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+221;Chevrolet;S10;Expedita;Hatch;2017;4;Híbrido;Automático;Prata;360;13.35;15.91;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+222;Renault;Captur;Adipisci;Sedan;2017;2;Gasolina;Manual;Cinza;293;7.32;8.62;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+223;Jeep;Wrangler;Aut;SUV;2015;4;Flex;Automático;Amarelo;252;10.53;13.03;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+224;Ford;Fusion;Expedita;Minivan;2007;3;Gasolina;CVT;Preto;148;8.8;12.94;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+225;Ford;Fusion;Reprehenderit;Crossover;2015;2;Gasolina;CVT;Preto;297;8.6;10.68;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+226;Ford;Ka;Porro;Esportivo;2010;5;Gasolina;Manual;Verde;115;8.54;9.91;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ka;https://via.placeholder.com/50?text=Estados Unidos
+227;Jeep;Commander;Debitis;SUV;2017;4;Flex;Manual;Verde;441;14.01;18.63;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Commander;https://via.placeholder.com/50?text=Estados Unidos
+228;Chevrolet;S10;Expedita;Sedan;2017;3;Diesel;CVT;Azul;322;6.46;8.13;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+229;Volkswagen;Virtus;Expedita;Conversível;2014;2;Diesel;Automático;Cinza;439;11.25;14.63;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+230;Chevrolet;Spin;Incidunt;Sedan;2008;4;Flex;CVT;Branco;500;11.2;15.42;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+231;Fiat;Mobi;Labore;Esportivo;2015;3;Diesel;Automático;Azul;315;8.14;13.0;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+232;Fiat;Strada;Sunt;Conversível;2025;3;Flex;CVT;Cinza;488;12.86;15.32;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+233;Jeep;Renegade;Quasi;Sedan;2023;2;Elétrico;Automático;Amarelo;294;12.98;17.31;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+234;Honda;City;Nesciunt;Sedan;2020;4;Diesel;Automático;Vermelho;436;9.23;11.74;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+235;Nissan;March;Repellendus;Esportivo;2023;5;Diesel;Manual;Branco;125;12.69;16.32;Japão;https://via.placeholder.com/150?text=Nissan+March;https://via.placeholder.com/50?text=Japão
+236;Fiat;Toro;Nulla;SUV;2025;5;Flex;Manual;Cinza;75;5.99;7.88;Itália;https://via.placeholder.com/150?text=Fiat+Toro;https://via.placeholder.com/50?text=Itália
+237;Renault;Duster;Commodi;Crossover;2019;5;Elétrico;Automático;Amarelo;246;14.98;17.91;França;https://via.placeholder.com/150?text=Renault+Duster;https://via.placeholder.com/50?text=França
+238;Volkswagen;Virtus;Minima;Hatch;2007;3;Diesel;CVT;Cinza;303;12.84;15.92;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+239;Fiat;Mobi;Sit;Conversível;2008;5;Gasolina;CVT;Cinza;92;13.1;14.56;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+240;Fiat;Argo;Recusandae;Picape;2010;3;Diesel;Automatizado;Prata;306;7.32;9.94;Itália;https://via.placeholder.com/150?text=Fiat+Argo;https://via.placeholder.com/50?text=Itália
+241;Ford;EcoSport;Culpa;Esportivo;2025;5;Elétrico;Automático;Branco;300;10.92;13.48;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+242;Chevrolet;S10;Alias;Hatch;2013;2;Diesel;CVT;Prata;170;9.58;11.63;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+243;Nissan;Frontier;Quam;Esportivo;2024;5;Diesel;CVT;Preto;304;11.17;15.42;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+244;Volkswagen;Gol;Occaecati;Crossover;2009;2;Diesel;Manual;Vermelho;163;8.73;10.3;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+245;Hyundai;Azera;Voluptatibus;Sedan;2024;5;Etanol;Automatizado;Verde;395;10.37;15.05;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+246;Ford;EcoSport;Perspiciatis;Minivan;2020;3;Diesel;Automatizado;Prata;387;5.54;7.98;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+247;Toyota;Etios;Aliquam;Picape;2009;5;Flex;Automatizado;Amarelo;282;12.1;14.88;Japão;https://via.placeholder.com/150?text=Toyota+Etios;https://via.placeholder.com/50?text=Japão
+248;Ford;Ka;Reprehenderit;SUV;2023;3;Gasolina;CVT;Azul;185;10.38;12.05;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ka;https://via.placeholder.com/50?text=Estados Unidos
+249;Nissan;March;Perferendis;Hatch;2022;2;Híbrido;CVT;Azul;347;13.23;14.4;Japão;https://via.placeholder.com/150?text=Nissan+March;https://via.placeholder.com/50?text=Japão
+250;Nissan;Versa;Eum;Hatch;2018;3;Gasolina;Automatizado;Azul;204;8.49;12.76;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+251;Nissan;Kicks;Quaerat;Picape;2012;4;Etanol;Automático;Verde;471;7.07;8.9;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+252;Toyota;Yaris;Sit;Minivan;2022;3;Elétrico;CVT;Cinza;218;10.73;15.54;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+253;Renault;KwID;Ipsa;Esportivo;2009;2;Elétrico;Automático;Azul;429;13.66;15.66;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+254;Fiat;Toro;Labore;Conversível;2017;3;Elétrico;Automatizado;Azul;262;9.52;13.05;Itália;https://via.placeholder.com/150?text=Fiat+Toro;https://via.placeholder.com/50?text=Itália
+255;Honda;City;Eveniet;Minivan;2021;4;Flex;CVT;Amarelo;367;5.02;9.12;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+256;Honda;City;Dolor;Crossover;2025;2;Etanol;Automatizado;Verde;492;7.12;9.19;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+257;Volkswagen;T-Cross;Deserunt;Sedan;2022;5;Elétrico;Manual;Cinza;93;6.0;10.14;Alemanha;https://via.placeholder.com/150?text=Volkswagen+T-Cross;https://via.placeholder.com/50?text=Alemanha
+258;Nissan;Kicks;At;Sedan;2008;5;Gasolina;Automatizado;Amarelo;173;14.96;19.6;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+259;Volkswagen;Polo;Quibusdam;Hatch;2013;4;Gasolina;CVT;Azul;410;14.04;15.7;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Polo;https://via.placeholder.com/50?text=Alemanha
+260;Hyundai;Tucson;Et;Esportivo;2012;2;Gasolina;Automático;Preto;314;5.78;9.15;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Tucson;https://via.placeholder.com/50?text=Coreia do Sul
+261;Renault;Sandero;Odit;SUV;2005;4;Flex;Automático;Preto;314;5.71;8.24;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+262;Honda;Civic;Corporis;Crossover;2015;4;Flex;Automático;Prata;398;14.93;16.5;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+263;Renault;KwID;Repellendus;Sedan;2024;5;Elétrico;Automático;Cinza;391;12.48;17.16;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+264;Jeep;Wrangler;Corporis;Hatch;2011;2;Gasolina;Automatizado;Prata;249;14.63;16.89;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+265;Ford;EcoSport;At;Hatch;2013;3;Elétrico;Manual;Azul;407;13.76;15.58;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+266;Jeep;Renegade;Distinctio;Minivan;2017;2;Flex;Automatizado;Vermelho;127;7.41;10.96;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+267;Honda;Civic;Amet;Crossover;2016;3;Híbrido;Automatizado;Verde;257;10.46;12.15;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+268;Nissan;Kicks;Deserunt;Hatch;2005;2;Etanol;Manual;Azul;100;14.49;17.08;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+269;Volkswagen;Virtus;Dignissimos;Esportivo;2018;2;Diesel;Manual;Prata;228;5.79;10.47;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+270;Ford;Ranger;Corporis;Hatch;2017;4;Elétrico;Automático;Verde;99;7.44;12.14;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+271;Honda;City;Commodi;SUV;2024;4;Gasolina;Manual;Prata;432;6.37;7.42;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+272;Nissan;Frontier;Consectetur;Minivan;2021;3;Etanol;CVT;Cinza;445;13.86;17.95;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+273;Toyota;Yaris;Nemo;Minivan;2018;2;Elétrico;Manual;Azul;324;9.55;11.99;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+274;Nissan;Versa;Ipsum;Sedan;2016;4;Híbrido;Manual;Preto;186;12.41;13.42;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+275;Toyota;Hilux;Nesciunt;Conversível;2006;4;Etanol;Automático;Verde;88;10.53;15.19;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+276;Hyundai;Creta;Accusamus;Picape;2015;5;Diesel;Manual;Cinza;362;8.73;11.74;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Creta;https://via.placeholder.com/50?text=Coreia do Sul
+277;Toyota;Hilux;Nulla;SUV;2012;5;Flex;CVT;Preto;466;13.45;15.76;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+278;Renault;Sandero;Quo;Crossover;2005;3;Híbrido;CVT;Azul;448;11.23;14.09;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+279;Jeep;Wrangler;Earum;Picape;2011;3;Flex;Manual;Branco;189;10.42;13.96;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+280;Toyota;Yaris;Fugit;Esportivo;2005;4;Etanol;Automático;Preto;284;9.92;11.16;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+281;Ford;Ranger;Occaecati;SUV;2007;3;Elétrico;CVT;Verde;304;14.75;16.09;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+282;Honda;HR-V;Laboriosam;Esportivo;2025;2;Flex;Automático;Branco;191;7.92;12.32;Japão;https://via.placeholder.com/150?text=Honda+HR-V;https://via.placeholder.com/50?text=Japão
+283;Hyundai;Tucson;Unde;Conversível;2015;4;Gasolina;Automático;Vermelho;139;12.8;16.14;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Tucson;https://via.placeholder.com/50?text=Coreia do Sul
+284;Ford;Ka;Iste;Conversível;2010;5;Flex;Manual;Cinza;344;8.58;12.66;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ka;https://via.placeholder.com/50?text=Estados Unidos
+285;Nissan;Frontier;Debitis;Minivan;2019;2;Etanol;CVT;Preto;493;12.05;15.46;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+286;Chevrolet;Cruze;Est;Hatch;2009;3;Flex;Manual;Cinza;416;7.99;12.27;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+287;Ford;Ka;Hic;Conversível;2017;3;Flex;Manual;Preto;481;12.94;14.43;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ka;https://via.placeholder.com/50?text=Estados Unidos
+288;Toyota;Hilux;Illo;Picape;2009;5;Elétrico;Manual;Cinza;368;10.86;15.53;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+289;Honda;Civic;Mollitia;Picape;2007;5;Gasolina;CVT;Prata;132;5.43;8.27;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+290;Ford;Fusion;Blanditiis;Conversível;2017;2;Elétrico;Automatizado;Verde;158;8.54;13.17;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+291;Volkswagen;T-Cross;Deleniti;Sedan;2019;2;Elétrico;CVT;Vermelho;325;9.12;12.32;Alemanha;https://via.placeholder.com/150?text=Volkswagen+T-Cross;https://via.placeholder.com/50?text=Alemanha
+292;Toyota;Corolla;Iste;Esportivo;2013;3;Etanol;Automático;Verde;392;14.94;18.11;Japão;https://via.placeholder.com/150?text=Toyota+Corolla;https://via.placeholder.com/50?text=Japão
+293;Toyota;Etios;Voluptates;Conversível;2016;5;Híbrido;CVT;Cinza;268;7.7;8.8;Japão;https://via.placeholder.com/150?text=Toyota+Etios;https://via.placeholder.com/50?text=Japão
+294;Jeep;Renegade;Exercitationem;Minivan;2005;2;Híbrido;CVT;Amarelo;462;10.84;12.77;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+295;Ford;Ka;Temporibus;Picape;2012;4;Etanol;Automatizado;Branco;251;14.35;19.32;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ka;https://via.placeholder.com/50?text=Estados Unidos
+296;Ford;EcoSport;Ex;Crossover;2012;4;Elétrico;CVT;Branco;360;10.64;13.89;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+297;Chevrolet;Spin;Neque;Minivan;2022;3;Gasolina;Manual;Amarelo;98;7.33;9.21;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+298;Renault;Sandero;Quaerat;Crossover;2005;3;Diesel;Automático;Prata;480;13.44;15.73;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+299;Toyota;Hilux;Voluptatem;Sedan;2023;2;Gasolina;CVT;Cinza;430;14.42;17.0;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+300;Honda;Fit;Natus;Crossover;2014;3;Elétrico;Automatizado;Prata;475;11.39;14.34;Japão;https://via.placeholder.com/150?text=Honda+Fit;https://via.placeholder.com/50?text=Japão
+301;Fiat;Toro;Distinctio;Crossover;2022;3;Flex;CVT;Prata;445;11.88;13.39;Itália;https://via.placeholder.com/150?text=Fiat+Toro;https://via.placeholder.com/50?text=Itália
+302;Toyota;Etios;Eligendi;SUV;2023;3;Híbrido;Automático;Cinza;397;10.66;15.41;Japão;https://via.placeholder.com/150?text=Toyota+Etios;https://via.placeholder.com/50?text=Japão
+303;Ford;Ranger;Nesciunt;Picape;2007;4;Etanol;Manual;Cinza;490;12.09;15.65;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+304;Fiat;Mobi;Nulla;Minivan;2005;3;Elétrico;Manual;Vermelho;249;7.57;9.0;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+305;Toyota;Corolla;Accusamus;Conversível;2017;5;Flex;Automatizado;Prata;263;8.51;11.01;Japão;https://via.placeholder.com/150?text=Toyota+Corolla;https://via.placeholder.com/50?text=Japão
+306;Nissan;Versa;Voluptas;Conversível;2010;2;Diesel;Manual;Branco;233;7.61;9.03;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+307;Fiat;Toro;Ipsam;Sedan;2017;2;Diesel;Automatizado;Preto;430;5.31;10.08;Itália;https://via.placeholder.com/150?text=Fiat+Toro;https://via.placeholder.com/50?text=Itália
+308;Ford;Fusion;In;SUV;2010;2;Etanol;Automático;Cinza;279;11.97;15.86;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+309;Renault;Captur;Dolores;Minivan;2014;3;Gasolina;Automatizado;Preto;362;10.5;13.46;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+310;Toyota;Yaris;Quidem;Esportivo;2005;2;Elétrico;Automatizado;Azul;172;5.97;7.8;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+311;Volkswagen;Gol;Nostrum;Hatch;2020;4;Flex;Automatizado;Verde;408;7.65;11.22;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+312;Hyundai;Creta;Non;Esportivo;2016;4;Flex;Manual;Prata;204;9.4;11.45;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Creta;https://via.placeholder.com/50?text=Coreia do Sul
+313;Volkswagen;Gol;Id;Hatch;2009;2;Híbrido;Automatizado;Cinza;457;10.9;14.11;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+314;Hyundai;Azera;Doloremque;Conversível;2022;3;Diesel;Manual;Amarelo;272;14.03;17.89;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+315;Renault;Duster;Accusamus;Conversível;2008;3;Etanol;Automático;Prata;134;5.43;6.74;França;https://via.placeholder.com/150?text=Renault+Duster;https://via.placeholder.com/50?text=França
+316;Hyundai;Creta;Quibusdam;Sedan;2025;4;Elétrico;Manual;Cinza;114;8.88;11.47;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Creta;https://via.placeholder.com/50?text=Coreia do Sul
+317;Fiat;Strada;Pariatur;Conversível;2021;2;Gasolina;Automatizado;Verde;146;6.48;9.83;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+318;Honda;Civic;Odio;Hatch;2023;4;Flex;CVT;Cinza;266;11.55;14.84;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+319;Nissan;Kicks;Excepturi;Minivan;2010;5;Híbrido;Automatizado;Prata;89;8.96;13.48;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+320;Chevrolet;Onix;Iusto;Minivan;2020;4;Diesel;CVT;Branco;229;7.8;10.77;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Onix;https://via.placeholder.com/50?text=Estados Unidos
+321;Honda;HR-V;Officia;Minivan;2009;5;Diesel;Automatizado;Cinza;379;11.46;13.21;Japão;https://via.placeholder.com/150?text=Honda+HR-V;https://via.placeholder.com/50?text=Japão
+322;Chevrolet;Spin;Pariatur;Crossover;2020;2;Gasolina;CVT;Prata;433;10.07;11.61;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+323;Renault;KwID;Eius;Picape;2010;3;Etanol;Manual;Branco;303;5.51;7.95;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+324;Chevrolet;Cruze;Molestias;Conversível;2016;5;Elétrico;Manual;Preto;193;8.72;12.1;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+325;Ford;Fusion;Sed;Crossover;2023;4;Diesel;Manual;Prata;215;5.27;6.47;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+326;Jeep;Renegade;Eveniet;Picape;2012;3;Elétrico;Automatizado;Azul;332;5.2;9.32;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+327;Toyota;Etios;Assumenda;Sedan;2009;2;Diesel;CVT;Vermelho;434;14.67;18.24;Japão;https://via.placeholder.com/150?text=Toyota+Etios;https://via.placeholder.com/50?text=Japão
+328;Hyundai;Azera;Quis;Conversível;2016;4;Flex;CVT;Vermelho;416;10.21;13.7;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+329;Jeep;Compass;Amet;Crossover;2005;4;Elétrico;Manual;Azul;316;5.64;10.59;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Compass;https://via.placeholder.com/50?text=Estados Unidos
+330;Fiat;Strada;Hic;Minivan;2013;3;Híbrido;Automático;Prata;99;13.05;17.26;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+331;Jeep;Wrangler;Quae;Sedan;2015;2;Diesel;CVT;Amarelo;284;9.05;13.0;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+332;Jeep;Renegade;Suscipit;Picape;2015;5;Híbrido;CVT;Cinza;157;13.41;17.92;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+333;Ford;Ranger;Placeat;Conversível;2008;3;Elétrico;Automático;Azul;418;14.0;17.62;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+334;Chevrolet;Cruze;Aut;Minivan;2012;5;Diesel;CVT;Cinza;369;7.94;12.34;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+335;Nissan;Kicks;Harum;Hatch;2025;5;Híbrido;Manual;Vermelho;418;8.82;11.01;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+336;Toyota;Hilux;Veritatis;Picape;2009;4;Híbrido;Automatizado;Verde;143;8.16;12.02;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+337;Honda;City;Id;Sedan;2015;4;Gasolina;Automatizado;Branco;210;7.09;11.18;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+338;Jeep;Renegade;Odio;Hatch;2020;3;Elétrico;Automatizado;Verde;276;9.29;12.2;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+339;Toyota;Corolla;Quae;Picape;2022;4;Diesel;Automático;Branco;79;11.77;15.28;Japão;https://via.placeholder.com/150?text=Toyota+Corolla;https://via.placeholder.com/50?text=Japão
+340;Chevrolet;S10;Fuga;Minivan;2016;3;Flex;CVT;Preto;155;5.65;6.83;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+341;Volkswagen;Virtus;Nihil;Crossover;2021;5;Diesel;Automatizado;Prata;253;12.5;14.16;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+342;Hyundai;HB20;Maxime;Picape;2012;3;Elétrico;Manual;Vermelho;371;10.05;11.54;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+HB20;https://via.placeholder.com/50?text=Coreia do Sul
+343;Toyota;Etios;Aut;Minivan;2025;2;Elétrico;Manual;Branco;404;13.36;14.55;Japão;https://via.placeholder.com/150?text=Toyota+Etios;https://via.placeholder.com/50?text=Japão
+344;Honda;City;Quidem;Esportivo;2019;2;Flex;Automático;Azul;175;11.95;15.47;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+345;Volkswagen;Virtus;Mollitia;Minivan;2008;3;Gasolina;Manual;Verde;214;6.14;7.57;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+346;Chevrolet;S10;Repudiandae;Picape;2013;4;Diesel;Automático;Verde;90;10.48;15.12;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+347;Nissan;Frontier;Dicta;SUV;2012;2;Gasolina;Automatizado;Preto;146;14.49;18.61;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+348;Honda;Civic;Voluptas;Picape;2013;5;Diesel;Automatizado;Azul;95;6.0;7.7;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+349;Toyota;Yaris;Occaecati;Crossover;2016;5;Gasolina;Manual;Preto;74;13.52;17.17;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+350;Ford;Ranger;Adipisci;Conversível;2016;4;Diesel;CVT;Preto;163;6.14;8.74;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+351;Nissan;Frontier;Repellat;Conversível;2017;5;Gasolina;Automático;Prata;426;12.26;17.19;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+352;Ford;Ka;Pariatur;Conversível;2018;5;Híbrido;Automatizado;Prata;468;8.59;9.71;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ka;https://via.placeholder.com/50?text=Estados Unidos
+353;Ford;Fusion;Sapiente;Hatch;2020;5;Gasolina;Manual;Amarelo;203;11.55;12.6;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+354;Renault;Duster;Recusandae;Hatch;2015;5;Flex;CVT;Vermelho;409;11.76;14.3;França;https://via.placeholder.com/150?text=Renault+Duster;https://via.placeholder.com/50?text=França
+355;Renault;KwID;Explicabo;Sedan;2005;5;Etanol;Manual;Amarelo;454;9.92;11.88;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+356;Volkswagen;Gol;Ea;Picape;2021;5;Etanol;Manual;Verde;305;9.44;12.73;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+357;Honda;City;Placeat;Crossover;2019;2;Elétrico;Manual;Amarelo;122;9.03;10.17;Japão;https://via.placeholder.com/150?text=Honda+City;https://via.placeholder.com/50?text=Japão
+358;Renault;KwID;Quos;Minivan;2007;3;Diesel;CVT;Amarelo;492;5.54;7.43;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+359;Nissan;Frontier;At;Conversível;2022;4;Gasolina;Manual;Amarelo;458;11.59;12.6;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+360;Fiat;Strada;Consequuntur;Crossover;2022;2;Etanol;Automatizado;Branco;141;13.22;17.19;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+361;Hyundai;HB20;Ut;Picape;2013;3;Flex;Automático;Preto;304;13.25;15.01;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+HB20;https://via.placeholder.com/50?text=Coreia do Sul
+362;Fiat;Argo;Laborum;SUV;2018;2;Flex;Automático;Amarelo;325;5.04;8.98;Itália;https://via.placeholder.com/150?text=Fiat+Argo;https://via.placeholder.com/50?text=Itália
+363;Renault;Sandero;Natus;Conversível;2023;3;Elétrico;Automático;Prata;123;8.87;12.27;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+364;Fiat;Mobi;Magnam;Picape;2018;4;Diesel;CVT;Verde;301;13.05;14.6;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+365;Jeep;Commander;Ab;Crossover;2022;3;Etanol;CVT;Vermelho;421;8.45;12.14;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Commander;https://via.placeholder.com/50?text=Estados Unidos
+366;Ford;Ranger;Exercitationem;Crossover;2008;5;Elétrico;CVT;Verde;286;13.08;16.17;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+367;Toyota;Etios;Ratione;SUV;2009;2;Diesel;Automático;Vermelho;216;11.83;13.42;Japão;https://via.placeholder.com/150?text=Toyota+Etios;https://via.placeholder.com/50?text=Japão
+368;Toyota;Yaris;Assumenda;SUV;2011;4;Gasolina;Automático;Amarelo;450;11.47;14.03;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+369;Renault;Captur;Alias;Esportivo;2006;5;Elétrico;CVT;Verde;352;5.54;9.51;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+370;Chevrolet;Spin;Nemo;Crossover;2012;3;Diesel;Automatizado;Vermelho;160;14.83;16.13;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+371;Ford;Ka;Porro;SUV;2017;5;Híbrido;CVT;Azul;136;6.61;10.99;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ka;https://via.placeholder.com/50?text=Estados Unidos
+372;Toyota;Yaris;Tempora;Sedan;2019;2;Diesel;Manual;Prata;466;14.32;17.78;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+373;Volkswagen;Virtus;Molestias;Crossover;2023;2;Híbrido;Automático;Cinza;164;10.21;14.36;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+374;Ford;Fusion;Occaecati;Esportivo;2022;2;Etanol;Automático;Cinza;409;8.32;10.76;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+375;Chevrolet;Spin;Facere;SUV;2022;2;Flex;Automático;Cinza;398;11.14;14.62;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+376;Toyota;Yaris;Hic;Hatch;2017;5;Híbrido;CVT;Azul;82;14.11;18.4;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+377;Fiat;Mobi;Sequi;SUV;2020;4;Diesel;Manual;Vermelho;119;6.67;11.5;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+378;Renault;KwID;Ex;Hatch;2025;3;Elétrico;Automatizado;Vermelho;497;6.04;9.19;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+379;Hyundai;HB20;Ad;SUV;2009;5;Gasolina;Manual;Cinza;107;5.54;9.72;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+HB20;https://via.placeholder.com/50?text=Coreia do Sul
+380;Renault;KwID;Quis;Picape;2023;4;Flex;Automatizado;Verde;392;9.04;11.31;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+381;Hyundai;HB20;Architecto;SUV;2022;2;Elétrico;Manual;Branco;253;14.28;15.7;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+HB20;https://via.placeholder.com/50?text=Coreia do Sul
+382;Volkswagen;Gol;Quo;Conversível;2014;5;Elétrico;Manual;Verde;312;6.56;8.44;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+383;Hyundai;Tucson;Exercitationem;Sedan;2025;4;Gasolina;Automático;Cinza;133;5.42;8.71;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Tucson;https://via.placeholder.com/50?text=Coreia do Sul
+384;Hyundai;HB20;Reiciendis;Picape;2014;4;Flex;Automático;Vermelho;152;6.84;10.31;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+HB20;https://via.placeholder.com/50?text=Coreia do Sul
+385;Volkswagen;Polo;Iusto;Sedan;2008;2;Elétrico;Manual;Amarelo;218;11.72;13.72;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Polo;https://via.placeholder.com/50?text=Alemanha
+386;Chevrolet;Spin;Omnis;Crossover;2015;3;Gasolina;CVT;Vermelho;387;5.7;7.47;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+387;Nissan;March;Deserunt;Minivan;2015;3;Diesel;Automatizado;Cinza;156;5.05;7.03;Japão;https://via.placeholder.com/150?text=Nissan+March;https://via.placeholder.com/50?text=Japão
+388;Chevrolet;Spin;Molestias;Crossover;2013;3;Flex;Automatizado;Cinza;298;8.59;10.81;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+389;Renault;KwID;Deleniti;Hatch;2010;4;Híbrido;Automático;Prata;204;12.34;15.85;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+390;Honda;Civic;Omnis;SUV;2021;5;Gasolina;CVT;Vermelho;348;13.94;17.1;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+391;Ford;Ranger;Blanditiis;Picape;2017;4;Flex;Manual;Prata;273;8.64;9.68;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+392;Chevrolet;S10;Dolores;Sedan;2021;5;Etanol;Automático;Prata;446;12.32;17.08;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+393;Toyota;Hilux;Possimus;Picape;2020;2;Diesel;Automático;Azul;91;11.69;14.76;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+394;Fiat;Mobi;Unde;Conversível;2020;2;Elétrico;CVT;Branco;122;12.04;15.13;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+395;Volkswagen;T-Cross;Consequatur;Sedan;2023;5;Diesel;Manual;Verde;334;7.52;12.41;Alemanha;https://via.placeholder.com/150?text=Volkswagen+T-Cross;https://via.placeholder.com/50?text=Alemanha
+396;Chevrolet;Spin;Ea;Crossover;2016;5;Híbrido;Manual;Amarelo;326;13.82;16.58;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+397;Chevrolet;Onix;Consequuntur;Minivan;2021;3;Etanol;Automático;Prata;255;11.02;15.29;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Onix;https://via.placeholder.com/50?text=Estados Unidos
+398;Chevrolet;Spin;Fugit;Hatch;2015;5;Flex;Automático;Amarelo;372;6.61;10.94;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+399;Toyota;Hilux;Nobis;Sedan;2006;3;Elétrico;Manual;Prata;363;6.47;8.14;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+400;Ford;Fusion;Quaerat;SUV;2024;4;Etanol;Automatizado;Preto;380;14.93;19.4;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+401;Ford;EcoSport;Placeat;Sedan;2018;3;Etanol;CVT;Azul;302;10.97;12.25;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+402;Hyundai;Azera;Molestias;Hatch;2009;2;Híbrido;Automatizado;Vermelho;493;6.5;7.89;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+403;Nissan;Kicks;Consequuntur;Hatch;2022;2;Elétrico;Automático;Amarelo;378;10.39;11.39;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+404;Hyundai;Azera;Laborum;SUV;2016;5;Flex;Automatizado;Vermelho;249;10.89;14.86;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+405;Jeep;Compass;Laborum;Sedan;2018;4;Etanol;Manual;Amarelo;215;10.98;14.15;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Compass;https://via.placeholder.com/50?text=Estados Unidos
+406;Volkswagen;Polo;Quas;SUV;2005;2;Flex;Automático;Branco;422;13.04;15.68;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Polo;https://via.placeholder.com/50?text=Alemanha
+407;Honda;HR-V;Doloribus;Minivan;2018;4;Híbrido;CVT;Verde;383;7.76;11.48;Japão;https://via.placeholder.com/150?text=Honda+HR-V;https://via.placeholder.com/50?text=Japão
+408;Chevrolet;Spin;Voluptate;Conversível;2022;3;Híbrido;Automatizado;Cinza;199;14.89;18.2;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+409;Hyundai;Creta;Minima;Picape;2008;5;Gasolina;Automático;Prata;330;9.01;11.36;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Creta;https://via.placeholder.com/50?text=Coreia do Sul
+410;Renault;KwID;Ullam;Esportivo;2010;2;Etanol;Automatizado;Preto;377;9.35;10.61;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+411;Chevrolet;Cruze;Non;SUV;2007;5;Híbrido;CVT;Verde;434;14.64;15.87;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+412;Ford;Fusion;Voluptatum;SUV;2019;3;Etanol;Manual;Azul;471;11.0;14.06;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+413;Chevrolet;S10;Doloremque;Crossover;2006;3;Etanol;Manual;Branco;211;12.8;15.21;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+414;Hyundai;Azera;Nesciunt;Picape;2023;2;Gasolina;CVT;Preto;441;13.3;17.96;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+415;Fiat;Strada;Ipsam;Picape;2013;3;Flex;Manual;Amarelo;203;6.75;9.77;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+416;Renault;KwID;Odit;Minivan;2021;4;Híbrido;CVT;Preto;345;13.13;16.43;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+417;Nissan;March;In;Conversível;2023;3;Flex;Automatizado;Cinza;370;13.62;16.55;Japão;https://via.placeholder.com/150?text=Nissan+March;https://via.placeholder.com/50?text=Japão
+418;Volkswagen;Gol;Odio;Picape;2017;3;Flex;CVT;Cinza;334;10.36;14.16;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+419;Volkswagen;Polo;Blanditiis;Hatch;2014;5;Gasolina;Automático;Cinza;313;8.14;10.01;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Polo;https://via.placeholder.com/50?text=Alemanha
+420;Jeep;Commander;Itaque;Picape;2010;5;Etanol;Automático;Vermelho;205;7.07;8.88;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Commander;https://via.placeholder.com/50?text=Estados Unidos
+421;Chevrolet;Cruze;Eum;Hatch;2009;2;Elétrico;Automatizado;Preto;384;5.07;9.5;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+422;Toyota;Etios;Deserunt;Crossover;2016;5;Flex;Automático;Azul;461;14.16;16.28;Japão;https://via.placeholder.com/150?text=Toyota+Etios;https://via.placeholder.com/50?text=Japão
+423;Chevrolet;S10;Omnis;Esportivo;2006;5;Híbrido;CVT;Branco;271;13.6;17.7;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+424;Nissan;Kicks;Dicta;Conversível;2021;4;Gasolina;Automático;Branco;264;10.81;13.11;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+425;Jeep;Commander;Perspiciatis;Minivan;2010;3;Flex;CVT;Azul;257;6.84;9.54;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Commander;https://via.placeholder.com/50?text=Estados Unidos
+426;Hyundai;Tucson;Numquam;Esportivo;2016;4;Etanol;Automático;Amarelo;364;11.86;16.12;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Tucson;https://via.placeholder.com/50?text=Coreia do Sul
+427;Volkswagen;Polo;Sed;Esportivo;2022;5;Etanol;Automático;Vermelho;312;13.06;14.77;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Polo;https://via.placeholder.com/50?text=Alemanha
+428;Nissan;Versa;Numquam;Crossover;2025;5;Diesel;Manual;Azul;273;5.99;7.64;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+429;Chevrolet;Cruze;Ullam;Hatch;2020;5;Diesel;CVT;Cinza;254;10.6;15.33;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+430;Volkswagen;T-Cross;Eum;Esportivo;2005;2;Elétrico;Automático;Cinza;365;10.76;14.36;Alemanha;https://via.placeholder.com/150?text=Volkswagen+T-Cross;https://via.placeholder.com/50?text=Alemanha
+431;Ford;Ranger;Commodi;Crossover;2016;5;Gasolina;Automatizado;Amarelo;384;7.87;11.4;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+432;Ford;EcoSport;Distinctio;Crossover;2025;5;Gasolina;Manual;Verde;152;8.44;10.69;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+433;Volkswagen;T-Cross;Quaerat;Esportivo;2024;4;Diesel;Automatizado;Amarelo;281;6.67;11.09;Alemanha;https://via.placeholder.com/150?text=Volkswagen+T-Cross;https://via.placeholder.com/50?text=Alemanha
+434;Ford;EcoSport;Doloremque;Hatch;2013;3;Flex;Manual;Prata;118;5.64;10.15;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+435;Renault;KwID;Minus;Esportivo;2005;2;Diesel;Automático;Preto;113;11.55;16.09;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
+436;Volkswagen;Polo;Soluta;Minivan;2012;5;Etanol;Automático;Prata;84;5.35;7.78;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Polo;https://via.placeholder.com/50?text=Alemanha
+437;Fiat;Mobi;Nihil;Minivan;2019;5;Elétrico;Automático;Prata;372;10.98;14.5;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+438;Jeep;Wrangler;Nostrum;Minivan;2021;4;Híbrido;Automático;Amarelo;482;5.9;8.13;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+439;Hyundai;Tucson;Praesentium;Minivan;2009;2;Híbrido;Automático;Branco;246;7.87;11.01;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Tucson;https://via.placeholder.com/50?text=Coreia do Sul
+440;Nissan;March;Sequi;SUV;2014;5;Híbrido;Automático;Azul;477;5.07;7.56;Japão;https://via.placeholder.com/150?text=Nissan+March;https://via.placeholder.com/50?text=Japão
+441;Hyundai;Azera;Impedit;Picape;2017;3;Flex;Automático;Verde;204;5.79;9.29;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+442;Renault;Captur;Eaque;Minivan;2014;5;Gasolina;Automático;Vermelho;139;7.9;11.45;França;https://via.placeholder.com/150?text=Renault+Captur;https://via.placeholder.com/50?text=França
+443;Jeep;Wrangler;Quo;Conversível;2013;3;Gasolina;Automático;Cinza;95;14.7;15.79;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Wrangler;https://via.placeholder.com/50?text=Estados Unidos
+444;Honda;Fit;Itaque;Sedan;2013;5;Etanol;Manual;Branco;147;5.15;7.02;Japão;https://via.placeholder.com/150?text=Honda+Fit;https://via.placeholder.com/50?text=Japão
+445;Hyundai;Tucson;Voluptate;Crossover;2020;5;Diesel;Manual;Branco;454;14.52;15.74;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Tucson;https://via.placeholder.com/50?text=Coreia do Sul
+446;Hyundai;HB20;Facilis;Conversível;2022;3;Diesel;Automatizado;Vermelho;494;5.13;10.03;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+HB20;https://via.placeholder.com/50?text=Coreia do Sul
+447;Chevrolet;Spin;Nesciunt;Picape;2019;2;Flex;Manual;Vermelho;336;11.66;13.49;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+448;Hyundai;Tucson;Occaecati;Sedan;2015;2;Diesel;Automatizado;Preto;396;7.99;10.43;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Tucson;https://via.placeholder.com/50?text=Coreia do Sul
+449;Toyota;Hilux;Sit;Picape;2008;5;Gasolina;Automático;Cinza;476;7.76;9.24;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+450;Chevrolet;Onix;Modi;Conversível;2006;3;Gasolina;Automático;Cinza;150;10.0;13.74;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Onix;https://via.placeholder.com/50?text=Estados Unidos
+451;Fiat;Argo;Magni;Crossover;2006;3;Etanol;Automatizado;Preto;189;8.17;11.4;Itália;https://via.placeholder.com/150?text=Fiat+Argo;https://via.placeholder.com/50?text=Itália
+452;Fiat;Mobi;Consequatur;SUV;2011;5;Elétrico;Automático;Cinza;198;13.99;16.93;Itália;https://via.placeholder.com/150?text=Fiat+Mobi;https://via.placeholder.com/50?text=Itália
+453;Nissan;Frontier;Magni;Conversível;2022;3;Híbrido;CVT;Prata;235;12.32;14.42;Japão;https://via.placeholder.com/150?text=Nissan+Frontier;https://via.placeholder.com/50?text=Japão
+454;Jeep;Renegade;Provident;Sedan;2007;5;Diesel;CVT;Azul;302;5.01;8.56;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+455;Hyundai;Creta;Eligendi;Crossover;2005;3;Elétrico;Manual;Cinza;407;14.67;18.95;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Creta;https://via.placeholder.com/50?text=Coreia do Sul
+456;Chevrolet;Spin;Ea;Sedan;2022;4;Flex;CVT;Cinza;126;5.96;9.6;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+457;Toyota;Hilux;Facere;SUV;2010;3;Flex;Automático;Preto;120;5.32;8.89;Japão;https://via.placeholder.com/150?text=Toyota+Hilux;https://via.placeholder.com/50?text=Japão
+458;Hyundai;Azera;Aliquam;Minivan;2021;2;Etanol;Manual;Cinza;76;14.3;16.13;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+459;Nissan;Kicks;Nam;SUV;2019;4;Diesel;Manual;Verde;491;11.17;14.29;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+460;Honda;Fit;Quaerat;Picape;2007;2;Elétrico;Automático;Preto;342;8.85;10.62;Japão;https://via.placeholder.com/150?text=Honda+Fit;https://via.placeholder.com/50?text=Japão
+461;Chevrolet;S10;Eum;Esportivo;2022;2;Elétrico;Automatizado;Cinza;429;11.65;16.18;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+462;Ford;EcoSport;A;Esportivo;2022;4;Híbrido;Automatizado;Prata;250;14.02;17.22;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+463;Fiat;Strada;Dolorum;Esportivo;2018;4;Híbrido;Automático;Vermelho;262;12.66;17.36;Itália;https://via.placeholder.com/150?text=Fiat+Strada;https://via.placeholder.com/50?text=Itália
+464;Volkswagen;T-Cross;Ex;Conversível;2019;5;Elétrico;Manual;Branco;215;10.96;14.03;Alemanha;https://via.placeholder.com/150?text=Volkswagen+T-Cross;https://via.placeholder.com/50?text=Alemanha
+465;Volkswagen;Gol;Maxime;Picape;2014;3;Gasolina;CVT;Cinza;353;10.11;13.39;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Gol;https://via.placeholder.com/50?text=Alemanha
+466;Jeep;Renegade;Accusamus;SUV;2008;5;Etanol;Automático;Cinza;205;8.67;12.0;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+467;Chevrolet;Cruze;Reiciendis;Hatch;2014;5;Elétrico;Manual;Vermelho;440;8.25;11.18;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Cruze;https://via.placeholder.com/50?text=Estados Unidos
+468;Nissan;Kicks;Iusto;Minivan;2024;2;Gasolina;Manual;Verde;464;8.34;12.86;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+469;Hyundai;Azera;Sed;Picape;2008;2;Gasolina;CVT;Verde;338;5.41;8.57;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+470;Ford;Ranger;Saepe;Picape;2021;3;Elétrico;Automatizado;Branco;298;12.53;15.83;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ranger;https://via.placeholder.com/50?text=Estados Unidos
+471;Honda;HR-V;Cum;Minivan;2018;5;Etanol;CVT;Prata;112;9.76;13.74;Japão;https://via.placeholder.com/150?text=Honda+HR-V;https://via.placeholder.com/50?text=Japão
+472;Renault;Sandero;Quam;Hatch;2013;5;Elétrico;Automático;Verde;460;6.35;9.59;França;https://via.placeholder.com/150?text=Renault+Sandero;https://via.placeholder.com/50?text=França
+473;Nissan;March;Saepe;Picape;2025;3;Gasolina;CVT;Vermelho;467;9.3;13.04;Japão;https://via.placeholder.com/150?text=Nissan+March;https://via.placeholder.com/50?text=Japão
+474;Jeep;Compass;Similique;Esportivo;2008;5;Diesel;Automático;Cinza;234;8.45;12.07;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Compass;https://via.placeholder.com/50?text=Estados Unidos
+475;Volkswagen;Polo;Dolores;Conversível;2016;3;Gasolina;Automático;Amarelo;172;11.85;13.47;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Polo;https://via.placeholder.com/50?text=Alemanha
+476;Honda;Civic;Nemo;Picape;2006;3;Gasolina;CVT;Azul;425;13.04;15.26;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+477;Nissan;Kicks;Modi;Picape;2015;3;Híbrido;CVT;Vermelho;350;9.83;13.75;Japão;https://via.placeholder.com/150?text=Nissan+Kicks;https://via.placeholder.com/50?text=Japão
+478;Ford;Ka;Voluptatibus;SUV;2017;4;Gasolina;CVT;Prata;172;12.89;16.36;Estados Unidos;https://via.placeholder.com/150?text=Ford+Ka;https://via.placeholder.com/50?text=Estados Unidos
+479;Toyota;Etios;Saepe;SUV;2025;2;Elétrico;CVT;Verde;409;13.52;17.16;Japão;https://via.placeholder.com/150?text=Toyota+Etios;https://via.placeholder.com/50?text=Japão
+480;Honda;Civic;Quod;Esportivo;2014;3;Híbrido;Manual;Verde;231;9.85;13.24;Japão;https://via.placeholder.com/150?text=Honda+Civic;https://via.placeholder.com/50?text=Japão
+481;Honda;HR-V;Quae;Conversível;2011;2;Etanol;CVT;Branco;240;9.9;13.88;Japão;https://via.placeholder.com/150?text=Honda+HR-V;https://via.placeholder.com/50?text=Japão
+482;Toyota;Yaris;Nobis;Crossover;2016;4;Híbrido;CVT;Vermelho;485;5.62;7.65;Japão;https://via.placeholder.com/150?text=Toyota+Yaris;https://via.placeholder.com/50?text=Japão
+483;Hyundai;HB20;Qui;Minivan;2022;3;Diesel;Automatizado;Prata;406;6.37;10.29;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+HB20;https://via.placeholder.com/50?text=Coreia do Sul
+484;Renault;Duster;Nihil;Picape;2018;3;Diesel;CVT;Verde;299;10.42;12.25;França;https://via.placeholder.com/150?text=Renault+Duster;https://via.placeholder.com/50?text=França
+485;Ford;EcoSport;Quas;Minivan;2009;3;Etanol;Automático;Verde;232;5.68;8.81;Estados Unidos;https://via.placeholder.com/150?text=Ford+EcoSport;https://via.placeholder.com/50?text=Estados Unidos
+486;Honda;HR-V;Dicta;Sedan;2015;2;Flex;Automatizado;Cinza;225;9.43;14.17;Japão;https://via.placeholder.com/150?text=Honda+HR-V;https://via.placeholder.com/50?text=Japão
+487;Volkswagen;Polo;Necessitatibus;Hatch;2011;3;Gasolina;CVT;Prata;380;10.67;12.59;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Polo;https://via.placeholder.com/50?text=Alemanha
+488;Chevrolet;S10;Quibusdam;Crossover;2005;2;Etanol;Automatizado;Amarelo;434;11.5;13.24;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+S10;https://via.placeholder.com/50?text=Estados Unidos
+489;Hyundai;Azera;Commodi;Sedan;2020;3;Etanol;Manual;Vermelho;279;12.65;13.71;Coreia do Sul;https://via.placeholder.com/150?text=Hyundai+Azera;https://via.placeholder.com/50?text=Coreia do Sul
+490;Volkswagen;Virtus;Neque;Picape;2012;3;Etanol;Automatizado;Preto;385;9.9;12.2;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Virtus;https://via.placeholder.com/50?text=Alemanha
+491;Nissan;Versa;Officiis;Esportivo;2018;2;Elétrico;CVT;Verde;271;11.12;15.09;Japão;https://via.placeholder.com/150?text=Nissan+Versa;https://via.placeholder.com/50?text=Japão
+492;Jeep;Compass;Minima;Hatch;2021;5;Gasolina;Automático;Amarelo;335;10.38;15.32;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Compass;https://via.placeholder.com/50?text=Estados Unidos
+493;Toyota;Etios;Alias;SUV;2021;3;Flex;Automatizado;Azul;225;12.74;14.88;Japão;https://via.placeholder.com/150?text=Toyota+Etios;https://via.placeholder.com/50?text=Japão
+494;Ford;Fusion;Inventore;SUV;2014;3;Elétrico;Automatizado;Amarelo;116;12.23;13.68;Estados Unidos;https://via.placeholder.com/150?text=Ford+Fusion;https://via.placeholder.com/50?text=Estados Unidos
+495;Jeep;Renegade;Deleniti;Esportivo;2017;4;Gasolina;Automático;Amarelo;302;10.9;14.75;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+496;Chevrolet;Spin;Laudantium;Minivan;2007;4;Elétrico;Manual;Prata;116;6.14;8.94;Estados Unidos;https://via.placeholder.com/150?text=Chevrolet+Spin;https://via.placeholder.com/50?text=Estados Unidos
+497;Fiat;Argo;Dolor;Esportivo;2021;3;Híbrido;Automatizado;Verde;92;12.68;17.33;Itália;https://via.placeholder.com/150?text=Fiat+Argo;https://via.placeholder.com/50?text=Itália
+498;Jeep;Renegade;Quis;Sedan;2010;3;Flex;CVT;Branco;228;12.3;17.14;Estados Unidos;https://via.placeholder.com/150?text=Jeep+Renegade;https://via.placeholder.com/50?text=Estados Unidos
+499;Volkswagen;Polo;Inventore;Sedan;2008;3;Híbrido;CVT;Branco;76;9.59;14.01;Alemanha;https://via.placeholder.com/150?text=Volkswagen+Polo;https://via.placeholder.com/50?text=Alemanha
+500;Renault;KwID;Delectus;Conversível;2024;3;Híbrido;Automatizado;Vermelho;302;9.1;10.42;França;https://via.placeholder.com/150?text=Renault+KwID;https://via.placeholder.com/50?text=França
